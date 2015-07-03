@@ -1,2 +1,2 @@
 # Paroquia
-Side da Paróquia da Cidade Ocidental
+Site da Paróquia da Cidade Ocidental
